@@ -2,4 +2,4 @@ Studenten
 =========
 
 - [voorbeeld naam](github url)
-- Jordi Papen
+- Jordi Papen https://github.com/jordi69
